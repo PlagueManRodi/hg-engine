@@ -1589,7 +1589,7 @@ pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_DIGLETT
-pokemon SPECIES_WOOPER
+pokemon SPECIES_TOTODILE
 pokemon SPECIES_DIGLETT
 
 // day encounter slots
@@ -8683,12 +8683,12 @@ pokemon SPECIES_GOLBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KINGLER
-pokemon SPECIES_MACHOP
+monwithform SPECIES_CORSOLA, 1
 pokemon SPECIES_ONIX
 monwithform SPECIES_QWILFISH, 1
 pokemon SPECIES_MISDREAVUS
 pokemon SPECIES_OVERQWIL
-pokemon SPECIES_MACHOKE
+pokemon SPECIES_CURSOLA
 pokemon SPECIES_STEELIX
 pokemon SPECIES_STEELIX
 
@@ -10647,10 +10647,10 @@ monwithform SPECIES_SNEASEL, 1
 pokemon SPECIES_FEAROW
 pokemon SPECIES_GLOOM
 pokemon SPECIES_GLOOM
-monwithform SPECIES_GROWLITHE, 1
+pokemon SPECIES_PONYTA
 pokemon SPECIES_GIRAFARIG
 pokemon SPECIES_DIGLETT
-pokemon SPECIES_GROWLITHE
+pokemon SPECIES_PONYTA
 monwithform SPECIES_SNEASEL, 1
 pokemon SPECIES_TAUROS
 
@@ -13744,7 +13744,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 22, 22, 22, 22, 22, 22, 21, 21, 20, 23, 20, 23
+walklevels 23, 23, 23, 23, 23, 23, 22, 22, 24, 23, 24, 23
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
@@ -13755,9 +13755,9 @@ pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+monwithform SPECIES_QWILFISH, 1
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+monwithform SPECIES_QWILFISH, 1
 pokemon SPECIES_SLOWPOKE
 
 // day encounter slots
@@ -13769,9 +13769,9 @@ pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+monwithform SPECIES_QWILFISH, 1
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+monwithform SPECIES_QWILFISH, 1
 pokemon SPECIES_SLOWPOKE
 
 // night encounter slots
@@ -13783,9 +13783,9 @@ pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+monwithform SPECIES_QWILFISH, 1
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+monwithform SPECIES_QWILFISH, 1
 pokemon SPECIES_SLOWPOKE
 
 // hoenn encounter slots
